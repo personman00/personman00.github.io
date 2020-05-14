@@ -176,7 +176,7 @@ class AppComponent {
         }
     }
     getDisplay(type) {
-        console.log(type);
+        type = parseInt(type);
         switch (type) {
             case -1:
                 return "";
