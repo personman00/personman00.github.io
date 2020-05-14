@@ -231,7 +231,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const config = { url: 'http://72.92.52.129:3000', options: {} };
+const config = { url: 'https://unoserver.herokuapp.com', options: {} };
 class AppModule {
 }
 AppModule.ɵmod = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]] });

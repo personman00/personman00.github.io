@@ -464,7 +464,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     "./node_modules/@angular/platform-browser/__ivy_ngcc__/fesm2015/animations.js");
 
     var config = {
-      url: 'http://72.92.52.129:3000',
+      url: 'https://unoserver.herokuapp.com',
       options: {}
     };
 
