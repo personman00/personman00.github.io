@@ -388,6 +388,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }, {
         key: "getDisplay",
         value: function getDisplay(type) {
+          console.log(type);
+
           switch (type) {
             case -1:
               return "";
